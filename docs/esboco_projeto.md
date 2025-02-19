@@ -1,4 +1,4 @@
-## 📄 Documento de Esboço do Projeto (`/docs/esboco_projeto.md`)
+## 📄 Documento de Esboço do Projeto 
 
 ### **Objetivo do projeto** 
 Garantir a segurança na comunicação entre funcionários.
